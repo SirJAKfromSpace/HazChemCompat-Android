@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HazChemCompat</string>
+    <string name="action_settings">Settings</string>
+    <string name="compatibility_result">Storage Compatibility Advice:</string>
+    <string name="okay">Okay</string>
+    <string name="app_fullname">Hazardous Chemical and Dangerous Goods Storage Compatibility Checker App</string>
+    <string name="welcome">Welcome!</string>
+    <string name="whichlang">Which language would you like to see the app in?</string>
+    <string name="flammablegas">Flammable Gas</string>
+    <string name="nontoxicflammablegas">Non Toxic Flammable Gas</string>
+    <string name="oktostoretogether">Okay to Store Together</string>
+    <string name="corrosivesubstance">Corrosive Substance</string>
+    <string name="segregate3m">Segregate at 3 meters</string>
+    <string name="segregate5m">Segregate at 5 meters</string>
+    <string name="fullyisolate">Fully Isolate</string>
+    <string name="checkmsdsnotes">Check MSDS and Notes</string>
+    <string name="dangerouswhenwet">Dangerous When Wet</string>
+    <string name="flammableliquid">Flammable Liquid</string>
+    <string name="flammablesolid">Flammable Solid</string>
+    <string name="organicperoxide">Organic Peroxide</string>
+    <string name="oxidizingagent">Oxidizing Agent</string>
+    <string name="oxidizinggas">Oxidizing Gas</string>
+    <string name="spontaneouslycombustible">Spontaneously Combustible</string>
+    <string name="toxicgas">Toxic Gas</string>
+    <string name="toxicsubstance">Toxic Substance</string>
+    <string name="select2chems">Please Select 2 Chemical Classes</string>
+</resources>
